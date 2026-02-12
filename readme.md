@@ -43,7 +43,7 @@ This project:
 ---
 
 ## 📂 Project Structure
-
+```
 gamma-squeeze-orchestrator/
 │
 ├── app/
@@ -63,11 +63,11 @@ gamma-squeeze-orchestrator/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/9ariz1/gamma-squeeze-orchestrator.git
 cd gamma-squeeze-orchestrator
 
@@ -85,12 +85,11 @@ cd gamma-squeeze-orchestrator
     
 📸 Screenshots
 🔹 Dashboard Overview
-    dashboard_main.png
-
+      ![Dashboard](Screenshot/dashboard_main.png)
 🔹 Gamma Pressure Chart
 
-    gamma_pressure_chart.png
+   ![Gamma Pressure](Screenshot/gamma_pressure_chart.png)
 
 🔹 Stock Price Trend
 
-    price_trend.png
+   ![Price Trend](Screenshot/price_trend.png)
